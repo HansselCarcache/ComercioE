@@ -1,0 +1,52 @@
+('C:\\Users\\Hanssel\\2S2022\\Comercio '
+ 'electronico\\cifrado\\build\\3DS\\3DS.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Hanssel\\2S2022\\Comercio '
+   'electronico\\cifrado\\build\\3DS\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Hanssel\\2S2022\\Comercio '
+   'electronico\\cifrado\\build\\3DS\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Hanssel\\2S2022\\Comercio '
+   'electronico\\cifrado\\build\\3DS\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Hanssel\\2S2022\\Comercio '
+   'electronico\\cifrado\\build\\3DS\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Hanssel\\2S2022\\Comercio '
+   'electronico\\cifrado\\build\\3DS\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Hanssel\\2S2022\\Comercio '
+   'electronico\\cifrado\\ambiente\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Hanssel\\2S2022\\Comercio '
+   'electronico\\cifrado\\ambiente\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\Hanssel\\2S2022\\Comercio '
+   'electronico\\cifrado\\ambiente\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('3DS',
+   'C:\\Users\\Hanssel\\2S2022\\Comercio electronico\\cifrado\\3DS.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
